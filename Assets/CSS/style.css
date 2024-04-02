@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://c.wallhere.com/photos/9b/9b/1920x1280_px_Whale-520377.jpg!d);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #f3f3f3;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.accordion-button {
+    background-color: #80CEE1;
+}
+
+.alert {
+    width: 98.5%;
+    text-align: center;
+
+    margin: 10px;
+}
